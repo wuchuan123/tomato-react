@@ -6,7 +6,7 @@ let publicUrl:string = '';
 if(ENV === 'development'){
 	publicUrl = '/';
 }else if(ENV === 'production'){
-	publicUrl = '/jirengu-potato';
+	publicUrl = '/tomato-react';
 }
 
 
